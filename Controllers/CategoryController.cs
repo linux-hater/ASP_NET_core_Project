@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ASP_NET_core_Project.Data;
 using ASP_NET_core_Project.Models;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Project.DataAcess.Data;
 
 namespace ASP_NET_core_Project.Controllers
 {
